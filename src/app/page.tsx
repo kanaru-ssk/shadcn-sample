@@ -6,8 +6,8 @@ export default function Home() {
   return (
     <main className="p-5 space-y-4">
       <ButtonDemo />
-      <TableDemo />
       <TableWithButtonDemo />
+      <TableDemo />
     </main>
   );
 }
